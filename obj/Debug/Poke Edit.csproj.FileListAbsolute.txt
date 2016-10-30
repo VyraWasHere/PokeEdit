@@ -1,0 +1,10 @@
+c:\users\al13n\documents\visual studio 2015\Projects\Poke Edit\bin\Debug\Poke Edit.exe.config
+c:\users\al13n\documents\visual studio 2015\Projects\Poke Edit\bin\Debug\Poke Edit.exe
+c:\users\al13n\documents\visual studio 2015\Projects\Poke Edit\bin\Debug\Poke Edit.pdb
+c:\users\al13n\documents\visual studio 2015\Projects\Poke Edit\obj\Debug\Poke Edit.csprojResolveAssemblyReference.cache
+c:\users\al13n\documents\visual studio 2015\Projects\Poke Edit\obj\Debug\Poke_Edit.Properties.Resources.resources
+c:\users\al13n\documents\visual studio 2015\Projects\Poke Edit\obj\Debug\Poke Edit.csproj.GenerateResource.Cache
+c:\users\al13n\documents\visual studio 2015\Projects\Poke Edit\obj\Debug\Poke Edit.exe
+c:\users\al13n\documents\visual studio 2015\Projects\Poke Edit\obj\Debug\Poke Edit.pdb
+c:\users\al13n\documents\visual studio 2015\Projects\Poke Edit\obj\Debug\Poke_Edit.EditorWin.resources
+c:\users\al13n\documents\visual studio 2015\Projects\Poke Edit\obj\Debug\Poke_Edit.TrainerInfoWin.resources
